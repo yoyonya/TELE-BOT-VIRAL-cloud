@@ -1,0 +1,287 @@
+[
+  {
+    "text": "Existují případy, kdy se obsah stal virálním během hodin nebo dní.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "U některých virálních osob došlo k rychlé ztrátě zaměstnání nebo spoluprací.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Existují veřejně zdokumentované případy fyzického obtěžování po virální události.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Některé platformy pozastavily nebo zrušily monetizaci během vrcholu sledovanosti.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Někteří tvůrci podepsali smlouvy krátce po virálním úspěchu.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Existují licenční smlouvy s trvalými nebo exkluzivními právy k obsahu.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Někteří autoři přišli o možnost používat vlastní obsah po podpisu smlouvy.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Tvůrci spojení s Vine museli změnit platformu nebo skončili.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Existovaly struktury označované jako content houses.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Některé content houses sdružovaly nezletilé nebo velmi mladé tvůrce.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Někteří členové content houses později veřejně odešli.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Existují rodinné kanály, které dlouhodobě publikovaly obsah s dětmi.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Někteří dospělí zpětně hodnotí své dětství zveřejněné online.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Některé jurisdikce začaly zavádět zákony upravující práci dětí v online obsahu.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Někteří tvůrci po období slávy přestali publikovat.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Někteří bývalí tvůrci přešli do běžného zaměstnání.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Existují veřejná vyjádření popisující odchod z online prostoru jako úlevu.",
+    "source": "raw/vyzkumyraw.txt",
+    "layer": "raw"
+  },
+  {
+    "text": "Po virálním zásahu se pozornost často přesouvá z obsahu na osobu.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Publikum má tendenci analyzovat minulost virální osoby.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Starší digitální stopy jsou znovu interpretovány v novém kontextu.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Online zájem se může přenést do offline prostředí.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Ekonomická hodnota pozornosti je často realizována třetími stranami.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Jednotlivci nesou většinu přímých dopadů virality.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Tvůrci často mění formát nebo platformu po zásadní události.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Zánik platformy vede k selekci, nikoli k plynulému přechodu všech aktérů.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Jen část tvůrců dokáže adaptovat svůj obsah na nový kontext.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Viditelné příběhy přeživších dominují veřejnému obrazu.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Odchod z veřejného prostoru je běžnou, ale málo viditelnou reakcí.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Pozornost tvůrce se po virálním zásahu přesouvá k metrikám.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Frekvence reakcí se zvyšuje bez odpovídající změny kapacit.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Zpětná vazba z publika nahrazuje jiné referenční body.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Rozhodnutí jsou činěna v prostředí vysoké nejistoty.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Hranice mezi osobní a veřejnou identitou se stírá.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Soukromé informace se častěji objevují ve veřejném výstupu.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Sebepojetí se dočasně váže na aktuální viditelnost.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Finanční očekávání se oddělují od skutečných příjmů.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Externí nabídky se objevují bez transparentních motivací.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Rozlišování legitimních a nelegitimních nabídek je omezené.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Opakované projevy s vysokou odezvou se stabilizují.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Osobnostní rysy se zjednodušují do pozorovatelných vzorců.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Sociální interakce se přesouvají do digitálního prostoru.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Sociální okruh se zužuje na osoby se sdílenou zkušeností.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Digitální prostředí se stává hlavním referenčním rámcem.",
+    "source": "synth/vyzkumysynth.txt",
+    "layer": "synth"
+  },
+  {
+    "text": "Neexistují kompletní data o lidech, kteří se po virálním zásahu stáhli.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Data jsou tvořena převážně viditelnými a mediálně atraktivními případy.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Neúspěšné nebo tiché trajektorie nejsou systematicky zaznamenány.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Z dostupných příkladů nelze odvodit pravděpodobnost úspěchu.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Retrospektivní výpovědi jsou ovlivněny pozdějším vývojem.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Lidé mají tendenci zpětně vysvětlovat náhodu jako záměr.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Algoritmické procesy nejsou pro uživatele transparentní.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Tvůrci nemají přístup k informacím, podle kterých jsou hodnoceni.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Rozhodování probíhá v prostředí informační nerovnováhy.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Smluvní důsledky nejsou v době podpisu plně pochopitelné.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Dlouhodobé psychické dopady nejsou v krátkodobých datech viditelné.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Neexistuje konsenzus o tom, co je udržitelná míra viditelnosti.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Nelze spolehlivě predikovat budoucí vývoj z minulých případů.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  },
+  {
+    "text": "Absence jistoty je strukturální vlastností virality.",
+    "source": "meta/vyzkumymeta.txt",
+    "layer": "meta"
+  }
+]

@@ -1,0 +1,24 @@
+.env
+__pycache__/
+*.pyc
+.git
+faiss.index
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+.env/
+
+# ML models
+models/
+.cache/
+*.bin
+*.pt
+
+# OS bordel
+.DS_Store
