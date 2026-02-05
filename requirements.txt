@@ -2,5 +2,7 @@ python-telegram-bot
 google-generativeai
 faiss-cpu
 sentence-transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+
 numpy
 python-dotenv
