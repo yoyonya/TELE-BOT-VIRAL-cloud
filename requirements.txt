@@ -1,6 +1,11 @@
-python-telegram-bot
-google-generativeai
+python-telegram-bot==22.6
+google-genai
+
 faiss-cpu
-sentence-transformers
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.0+cpu
+sentence-transformers==2.7.0
+
 numpy
 python-dotenv
